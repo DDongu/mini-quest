@@ -7,3 +7,4 @@
 사용기술: Python, JS
 
 + 3-way merge test1-1(b1)
++ 3-way merge test1-2(b1)
