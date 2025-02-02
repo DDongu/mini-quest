@@ -5,3 +5,5 @@
 
 + squash merge test1-1(main)
 + squash merge test1-2(main)
++ squash merge test1-1(b2)
++ squash merge test1-2(b2)
