@@ -5,3 +5,5 @@
 자격증: 정보처리기사
 대외활동: KITRI 화이트햇 스쿨(KTIRI), OSS 운영보조원(충북대학교 SW사업단)
 사용기술: Python, JS
+
++ 3-way merge test1-1(b1)
